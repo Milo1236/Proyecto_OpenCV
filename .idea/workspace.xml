@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa924f66-d295-405d-b107-93a4dc60eaca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1brwB3JE8qPo6lrqP8gXhzZMtyS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa924f66-d295-405d-b107-93a4dc60eaca" name="Default Changelist" comment="" />
+      <created>1589403381048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589403381048</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1032" y="181" key="#Inspections" timestamp="1589492142202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="181" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1589492142202" />
+    <state x="1184" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589428374789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1184" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589428374789" />
+    <state x="922" y="165" key="SettingsEditor" timestamp="1589492178596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589492178596" />
+    <state x="197" y="252" width="952" height="1019" key="dock-window-1" timestamp="1589495064416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="197" y="252" width="952" height="1019" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1589495064416" />
+    <state x="39" y="72" width="952" height="901" key="dock-window-2" timestamp="1589496508197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="39" y="72" width="952" height="901" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1589496508197" />
+  </component>
+</project>
